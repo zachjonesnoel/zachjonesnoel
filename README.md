@@ -4,13 +4,19 @@
 - 💞️ I’m looking to collaborate on AWS, Serverless projects, POCs.
 
 - 📫 How to reach me 
+<br/>
 Twitter : https://twitter.com/ZachjNOEL
+<br/>
 LinkedIn : https://www.linkedin.com/in/jones-zachariah-noel-n
-http://zachjonesnoel.com/
+<br/>
+Portfolio : http://zachjonesnoel.com/
+<br/>
 
 ![Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachjonesnoel&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachjonesnoel&layout=compact)
+
+
 
 <!---
 zachjonesnoel/zachjonesnoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
