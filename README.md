@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning Docker, Fargate.
 - 💞️ I’m looking to collaborate on AWS, Serverless projects, POCs.
 
+- 📖 Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 - 📫 How to reach me 
 <br/>
 Twitter : https://twitter.com/ZachjNOEL
