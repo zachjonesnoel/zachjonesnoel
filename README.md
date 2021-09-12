@@ -5,7 +5,11 @@
 
 - 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Custom Domain on Amplify with Route53](https://dev.to/awscommunity-asean/custom-domain-on-amplify-with-route53-9g9)
+- [AWS Cognito Hosted UI](https://dev.to/awscommunity-asean/aws-cognito-hosted-ui-34ep)
+- [DynamoDB Operations Scan vs Query with CloudWatch Custom Metrics](https://dev.to/awscommunity-asean/dynamodb-operations-scan-vs-query-with-cloudwatch-custom-metrics-2mik)
+- [DynamoDB with PartiQL (Part - 2)](https://dev.to/awscommunity-asean/dynamodb-with-partiql-part-2-47fe)
+- [DynamoDB with PartiQL](https://dev.to/awscommunity-asean/dynamodb-with-partiql-2693)
 <!-- BLOG-POST-LIST:END -->
 
 - 📫 How to reach me 
