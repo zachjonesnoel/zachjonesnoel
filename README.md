@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @zachjonesnoel
-- 👀 I’m interested in AWS Serverless, web application development - VueJS, ReactJS
-- 🌱 I’m currently learning Docker, Fargate.
-- 💞️ I’m looking to collaborate on AWS, Serverless projects, POCs.
-
-- 📖 Blog posts
+ 👋 Hi, I’m @zachjonesnoel
+<br/>
+ 👀 I’m interested in AWS Serverless, web application development - VueJS, ReactJS
+<br/>
+ 🌱 I’m currently learning Docker, Fargate.
+<br/>
+ 💞️ I’m looking to collaborate on AWS, Serverless projects, POCs.
+<br/>
+ 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Amazon SES and everything to set it up](https://dev.to/awscommunity-asean/amazon-ses-and-everything-to-set-it-up-49c6)
 - [Custom Domain on Amplify with Route53](https://dev.to/awscommunity-asean/custom-domain-on-amplify-with-route53-9g9)
@@ -11,8 +14,8 @@
 - [DynamoDB Operations Scan vs Query with CloudWatch Custom Metrics](https://dev.to/awscommunity-asean/dynamodb-operations-scan-vs-query-with-cloudwatch-custom-metrics-2mik)
 - [DynamoDB with PartiQL (Part - 2)](https://dev.to/awscommunity-asean/dynamodb-with-partiql-part-2-47fe)
 <!-- BLOG-POST-LIST:END -->
-
-- 📫 How to reach me 
+<br/>
+ 📫 How to reach me 
 <br/>
 Twitter : https://twitter.com/ZachjNOEL
 <br/>
