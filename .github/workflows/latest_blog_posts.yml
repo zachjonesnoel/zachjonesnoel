@@ -14,3 +14,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.3.5
         with:
           feed_list: "https://dev.to/feed/zachjonesnoel"
+          commit_message: "Updated blog posts"
+          committer_username: "zachjonesnoel-blog-bot"
+          committer_email: "blog@zachjonesnoel.com"
+          template: "[$title]($url)$newline$description"
+          tag_post_pre_newline: "true"
