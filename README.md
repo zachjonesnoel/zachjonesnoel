@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Foodie and photographer!**
 
-### Blogs posts
+### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Amazon SES and everything to set it up](https://dev.to/awscommunity-asean/amazon-ses-and-everything-to-set-it-up-49c6)
 - [Custom Domain on Amplify with Route53](https://dev.to/awscommunity-asean/custom-domain-on-amplify-with-route53-9g9)
