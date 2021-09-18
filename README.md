@@ -21,12 +21,13 @@
 
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
-[Amazon SES and everything to set it up](https://dev.to/awscommunity-asean/amazon-ses-and-everything-to-set-it-up-49c6)
-$description[Custom Domain on Amplify with Route53](https://dev.to/awscommunity-asean/custom-domain-on-amplify-with-route53-9g9)
-$description[AWS Cognito Hosted UI](https://dev.to/awscommunity-asean/aws-cognito-hosted-ui-34ep)
-$description[DynamoDB Operations Scan vs Query with CloudWatch Custom Metrics](https://dev.to/awscommunity-asean/dynamodb-operations-scan-vs-query-with-cloudwatch-custom-metrics-2mik)
-$description[DynamoDB with PartiQL (Part - 2)](https://dev.to/awscommunity-asean/dynamodb-with-partiql-part-2-47fe)
-$description
+
+- [Amazon SES and everything to set it up](https://dev.to/awscommunity-asean/amazon-ses-and-everything-to-set-it-up-49c6)
+- [Custom Domain on Amplify with Route53](https://dev.to/awscommunity-asean/custom-domain-on-amplify-with-route53-9g9)
+- [AWS Cognito Hosted UI](https://dev.to/awscommunity-asean/aws-cognito-hosted-ui-34ep)
+- [DynamoDB Operations Scan vs Query with CloudWatch Custom Metrics](https://dev.to/awscommunity-asean/dynamodb-operations-scan-vs-query-with-cloudwatch-custom-metrics-2mik)
+- [DynamoDB with PartiQL (Part - 2)](https://dev.to/awscommunity-asean/dynamodb-with-partiql-part-2-47fe)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
