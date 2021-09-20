@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zachjnoel" target="blank"><img src="https://img.shields.io/twitter/follow/zachjnoel?logo=twitter&style=for-the-badge" alt="zachjnoel" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Fargate**
+- 🌱 I’m currently learning **Docker, Fargate, SageMaker**
 
 - 👨‍💻 Visit me on [https://zachjonesnoel.com/](https://zachjonesnoel.com/)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AWS, ReactJS, VueJS**
 
-- 📫 How to reach me **reach@zachjonesnoel.com**
+- 📫 How to reach me **joneszachariahnoel@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio.zachjonesnoel.com/](https://portfolio.zachjonesnoel.com/)
 
