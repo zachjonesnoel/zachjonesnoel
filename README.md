@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AWS, ReactJS, VueJS**
 
-- 📫 How to reach me **joneszachariahnoel@gmail.com**
+- 📫 How to reach me **reach@zachjonesnoel.com**
 
 - 📄 Know about my experiences [https://portfolio.zachjonesnoel.com/](https://portfolio.zachjonesnoel.com/)
 
