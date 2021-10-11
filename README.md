@@ -22,7 +22,7 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
-- [SQS Queue with across account Lambda triggers](https://dev.to/aws-builders/sqs-queue-with-across-account-lambda-triggers-4job)
+- [SQS Queue with a cross-account Lambda triggers](https://dev.to/aws-builders/sqs-queue-with-across-account-lambda-triggers-4job)
 - [AWS Lambda powered up by AWS Graviton2](https://dev.to/awscommunity-asean/aws-lambda-powered-up-by-aws-graviton2-3237)
 - [Securing access to S3 bucket](https://dev.to/awscommunity-asean/securing-access-to-s3-bucket-3h8d)
 - [Amazon SES and everything to set it up](https://dev.to/awscommunity-asean/amazon-ses-and-everything-to-set-it-up-49c6)
