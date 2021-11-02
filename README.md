@@ -22,11 +22,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Getting into AWS SDK JS v3 mindset](https://dev.to/aws-builders/getting-into-aws-sdk-js-v3-mindset-15ki)
 - [Configuring inbound rules on SES](https://dev.to/aws-builders/configuring-inbound-rules-on-ses-5fci)
 - [Amazon Textract with expense analyzing](https://dev.to/aws-builders/amazon-textract-with-expense-analyzing-516b)
 - [SQS Queue with a cross-account Lambda triggers](https://dev.to/aws-builders/sqs-queue-with-across-account-lambda-triggers-4job)
 - [AWS Lambda powered up by AWS Graviton2](https://dev.to/awscommunity-asean/aws-lambda-powered-up-by-aws-graviton2-3237)
-- [Securing access to S3 bucket](https://dev.to/awscommunity-asean/securing-access-to-s3-bucket-3h8d)
 
 <!-- BLOG-POST-LIST:END -->
 
