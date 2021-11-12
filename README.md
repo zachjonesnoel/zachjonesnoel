@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachjonesnoel" alt="zachjonesnoel" /></a> </p>-->
 
-<p align="left"> <a href="https://twitter.com/zachjnoel" target="blank"><img src="https://img.shields.io/twitter/follow/zachjnoel?logo=twitter&style=for-the-badge" alt="zachjnoel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zachjonesnoel" target="blank"><img src="https://img.shields.io/twitter/follow/zachjonesnoel?logo=twitter&style=for-the-badge" alt="zachjonesnoel" /></a> </p>
 
 - 🌱 I’m currently learning **Docker, Fargate, SageMaker**
 
