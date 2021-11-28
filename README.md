@@ -22,11 +22,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Trigger Lambda Functions with event filtering](https://dev.to/aws-builders/trigger-lambda-functions-with-event-filtering-2pnb)
 - [When to : SNS or SQS](https://dev.to/aws-builders/when-to-sns-or-sqs-2aji)
 - [Getting started with SNS and SQS](https://dev.to/aws-builders/getting-started-with-sns-and-sqs-3m4i)
 - [Getting into AWS SDK JS v3 mindset](https://dev.to/aws-builders/getting-into-aws-sdk-js-v3-mindset-15ki)
 - [Configuring inbound rules on SES](https://dev.to/aws-builders/configuring-inbound-rules-on-ses-5fci)
-- [Amazon Textract with expense analyzing](https://dev.to/aws-builders/amazon-textract-with-expense-analyzing-516b)
 
 <!-- BLOG-POST-LIST:END -->
 
