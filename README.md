@@ -22,11 +22,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Save more with DynamoDB table class](https://dev.to/aws-builders/save-more-with-dynamodb-table-class-3k6g)
 - [Standard v/s FIFO : SNS & SQS](https://dev.to/aws-builders/standard-vs-fifo-sns-sqs-38ld)
 - [Deep dive into Lambda event-filters for DyanmoDB](https://dev.to/aws-builders/deep-dive-into-lambda-event-filters-for-dyanmodb-320)
 - [Using GitHub actions - Deploy to AWS & SNS Publish](https://dev.to/awscommunity-asean/using-github-actions-deploy-to-aws-sns-publish-2m1f)
 - [Trigger Lambda Functions with event filtering](https://dev.to/aws-builders/trigger-lambda-functions-with-event-filtering-2pnb)
-- [When to : SNS or SQS](https://dev.to/aws-builders/when-to-sns-or-sqs-2aji)
 
 <!-- BLOG-POST-LIST:END -->
 
