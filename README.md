@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://portfolio.zachjonesnoel.com/](https://portfolio.zachjonesnoel.com/)
 
+- 📰 Subscribe to my newsletter - [**zachjonesnoel's writings about AWS, Serverless and architectures**](http://newsletter.zachjonesnoel.com/)
+
 - ⚡ Fun fact **Foodie and photographer!**
 
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
