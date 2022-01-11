@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Docker, Fargate, SageMaker**
 
-- 👨‍💻 Visit me on [https://zachjonesnoel.com/](https://zachjonesnoel.com/)
+- 👨‍💻 Visit me on [**https://zachjonesnoel.com/**](https://zachjonesnoel.com/)
 
-- 📝 I regularly write articles on [https://dev.to/zachjonesnoel](https://dev.to/zachjonesnoel)
+- 📝 I regularly write articles on [**https://dev.to/zachjonesnoel**](https://dev.to/zachjonesnoel)
 
 - 💬 Ask me about **AWS, ReactJS, VueJS**
 
 - 📫 How to reach me **reach@zachjonesnoel.com**
 
-- 📄 Know about my experiences [https://portfolio.zachjonesnoel.com/](https://portfolio.zachjonesnoel.com/)
+- 📄 Know about my experiences [**https://portfolio.zachjonesnoel.com/**](https://portfolio.zachjonesnoel.com/)
 
 - 📰 Subscribe to my newsletter - [**zachjonesnoel's writings about AWS, Serverless and architectures**](http://newsletter.zachjonesnoel.com/)
 
