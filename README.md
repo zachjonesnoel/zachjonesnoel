@@ -24,11 +24,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Creating users on DynamoDB with Step Functions](https://dev.to/awscommunity-asean/creating-users-on-dynamodb-with-step-functions-2fge)
 - [Looking back at my Serverless Advocacy](https://dev.to/awscommunity-asean/looking-back-at-my-serverless-advocacy-42e8)
 - [Step Functions for making your text based images searchable](https://dev.to/aws-builders/step-functions-for-making-your-text-based-images-searchable-334)
 - [CloudWatch RUM for all insights](https://dev.to/aws-builders/cloudwatch-rum-for-all-insights-km5)
 - [AWS SAM app with MongoDB Atlas Data APIs](https://dev.to/zachjonesnoel/aws-sam-app-with-mongodb-atlas-data-apis-18nl)
-- [Save more with DynamoDB table class](https://dev.to/aws-builders/save-more-with-dynamodb-table-class-3k6g)
 
 <!-- BLOG-POST-LIST:END -->
 
