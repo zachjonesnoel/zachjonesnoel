@@ -24,11 +24,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Handling errors with StepFunctions SNS SDK integration](https://dev.to/aws-builders/handling-errors-with-stepfunctions-sns-sdk-integration-34g8)
 - [AWS Lambda functions in VPC](https://dev.to/aws-builders/aws-lambda-functions-in-vpc-1no5)
 - [Creating users on DynamoDB with Step Functions](https://dev.to/awscommunity-asean/creating-users-on-dynamodb-with-step-functions-2fge)
 - [Looking back at my Serverless Advocacy](https://dev.to/awscommunity-asean/looking-back-at-my-serverless-advocacy-42e8)
 - [Step Functions for making your text based images searchable](https://dev.to/aws-builders/step-functions-for-making-your-text-based-images-searchable-334)
-- [CloudWatch RUM for all insights](https://dev.to/aws-builders/cloudwatch-rum-for-all-insights-km5)
 
 <!-- BLOG-POST-LIST:END -->
 
