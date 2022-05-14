@@ -24,11 +24,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Serverless apps : Why IaC should be the direction](https://dev.to/aws-builders/serverless-apps-why-iac-should-be-the-direction-1h05)
 - [Lambda functions over URLs](https://dev.to/aws-builders/lambda-functions-over-urls-5dca)
 - [Share events for your Lambda functions](https://dev.to/aws-builders/share-events-for-your-lambda-functions-kd5)
 - [Step Functions to check if you have public S3 buckets](https://dev.to/awscommunity-asean/step-functions-to-check-if-you-have-public-s3-buckets-5dje)
 - [IAM Credentials Rotation Automation with Step Functions](https://dev.to/aws-builders/iam-credentials-rotation-automation-with-step-functions-4gj8)
-- [Handling errors with StepFunctions SNS SDK integration](https://dev.to/aws-builders/handling-errors-with-stepfunctions-sns-sdk-integration-34g8)
 
 <!-- BLOG-POST-LIST:END -->
 
