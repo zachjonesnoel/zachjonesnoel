@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zachjonesnoel</h1>
-<h3 align="center">AWS | Serverless | Cloud | ReactJS | VueJS</h3>
+<h3 align="center">Developer Relations | AWS | Serverless | Cloud | ReactJS | VueJS</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachjonesnoel" alt="zachjonesnoel" /></a> </p>-->
 
