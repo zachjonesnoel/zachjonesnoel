@@ -24,7 +24,7 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
-- [Allow only what your Lambda code needs](https://dev.to/zachjonesnoel/allow-only-what-your-lambda-code-needs-59f2)
+- [Allow only what your Lambda code needs](https://dev.to/aws-builders/allow-only-what-your-lambda-code-needs-59f2)
 - [Building Serverless with SAM](https://dev.to/aws-builders/building-serverless-with-sam-396o)
 - [Cloud9 environments status monitoring with Step Functions](https://dev.to/aws-builders/cloud9-environments-status-monitoring-with-step-functions-26lm)
 - [Serverless apps : Why IaC should be the direction](https://dev.to/aws-builders/serverless-apps-why-iac-should-be-the-direction-1h05)
