@@ -24,11 +24,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Why AWS Step Functions and SDK integrations](https://dev.to/aws-builders/why-aws-step-functions-and-sdk-integrations-4eeh)
 - [Intrinsic functions to level-up your Step Functions](https://dev.to/awscommunity-asean/intrinsic-functions-to-level-up-your-step-functions-2k84)
 - [Amazon CloudFront for your tech stack](https://dev.to/aws-builders/amazon-cloudfront-for-your-tech-stack-5ggk)
 - [Allow only what your Lambda code needs](https://dev.to/aws-builders/allow-only-what-your-lambda-code-needs-59f2)
 - [Building Serverless with SAM](https://dev.to/aws-builders/building-serverless-with-sam-396o)
-- [Cloud9 environments status monitoring with Step Functions](https://dev.to/aws-builders/cloud9-environments-status-monitoring-with-step-functions-26lm)
 
 <!-- BLOG-POST-LIST:END -->
 
