@@ -24,11 +24,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Building Serverless apps with more configurations](https://dev.to/aws-heroes/building-serverless-apps-with-more-configurations-4p4f)
 - [It's time to re:Wind 2022](https://dev.to/aws-heroes/its-time-to-rewind-2022-20i3)
 - [Amazon Inspector can now scan AWS Lambda Functions](https://dev.to/aws-heroes/amazon-inspector-can-now-scan-aws-lambda-functions-acg)
 - [Why AWS Step Functions and SDK integrations](https://dev.to/aws-builders/why-aws-step-functions-and-sdk-integrations-4eeh)
 - [Intrinsic functions to level-up your Step Functions](https://dev.to/awscommunity-asean/intrinsic-functions-to-level-up-your-step-functions-2k84)
-- [Amazon CloudFront for your tech stack](https://dev.to/aws-builders/amazon-cloudfront-for-your-tech-stack-5ggk)
 
 <!-- BLOG-POST-LIST:END -->
 
