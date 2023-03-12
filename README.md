@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [**https://portfolio.zachjonesnoel.com/**](https://portfolio.zachjonesnoel.com/)
 
-- 📰 Subscribe to my newsletter - [**Everything AWS, Serverless and Architectures ☁️🚀👨‍💻**](https://everythingawsserverless.substack.com/)
+- 📰 Subscribe to my newsletter - [**The Serverless Terminal ☁️🚀👨‍💻**](https://www.theserverlessterminal.com/)
 
 - ⚡ Fun fact **Foodie and photographer!**
 
