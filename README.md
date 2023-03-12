@@ -24,11 +24,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
-- [Amazon EventBridge: The missing piece to your app](https://dev.to/awscommunity-asean/amazon-eventbridge-the-missing-piece-to-your-app-5edp)
-- [Building Serverless apps with more configurations](https://dev.to/aws-heroes/building-serverless-apps-with-more-configurations-4p4f)
-- [It's time to re:Wind 2022](https://dev.to/aws-heroes/its-time-to-rewind-2022-20i3)
-- [Amazon Inspector can now scan AWS Lambda Functions](https://dev.to/aws-heroes/amazon-inspector-can-now-scan-aws-lambda-functions-acg)
-- [Why AWS Step Functions and SDK integrations](https://dev.to/aws-builders/why-aws-step-functions-and-sdk-integrations-4eeh)
+- [Amazon EventBridge: The missing piece to your app](https://blog.theserverlessterminal.com/amazon-eventbridge-the-missing-piece-to-your-app)
+- [Building Serverless apps with more configurations](https://blog.theserverlessterminal.com/building-serverless-apps-with-more-configurations)
+- [Amazon Inspector can now scan AWS Lambda Functions](https://blog.theserverlessterminal.com/amazon-inspector-can-now-scan-aws-lambda-functions)
+- [Why AWS Step Functions and SDK integrations](https://blog.theserverlessterminal.com/why-aws-step-functions-and-sdk-integrations)
+- [Intrinsic functions to level-up your Step Functions](https://blog.theserverlessterminal.com/intrinsic-functions-to-level-up-your-step-functions)
 
 <!-- BLOG-POST-LIST:END -->
 
