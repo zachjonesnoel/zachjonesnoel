@@ -24,11 +24,11 @@
 ### <a href="https://dev.to/zachjonesnoel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zachjonesnoel" height="30" width="40" /></a>Blog posts
 <!-- BLOG-POST-LIST:START -->
 
+- [Re-think and Re-architect Your Application](https://blog.theserverlessterminal.com/re-think-and-re-architect-your-application)
 - [Workarounds for AppSync Subscriptions triggers via Lambda functions](https://blog.theserverlessterminal.com/workarounds-for-appsync-subscriptions-triggers-via-lambda-functions)
 - [Serverless development with Amplify Studio](https://blog.theserverlessterminal.com/serverless-development-with-amplify-studio)
 - [Amazon EventBridge: The missing piece to your app](https://blog.theserverlessterminal.com/amazon-eventbridge-the-missing-piece-to-your-app)
 - [Building Serverless apps with more configurations](https://blog.theserverlessterminal.com/building-serverless-apps-with-more-configurations)
-- [Amazon Inspector can now scan AWS Lambda Functions](https://blog.theserverlessterminal.com/amazon-inspector-can-now-scan-aws-lambda-functions)
 
 <!-- BLOG-POST-LIST:END -->
 
