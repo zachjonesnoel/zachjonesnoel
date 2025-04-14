@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/zachjonesnoel" target="blank"><img src="https://img.shields.io/twitter/follow/zachjonesnoel?logo=twitter&style=for-the-badge" alt="zachjonesnoel" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Fargate, SageMaker**
-
 - 👨‍💻 Visit me on [**https://zachjonesnoel.com/**](https://zachjonesnoel.com/)
 
 - 📝 I regularly write articles on [**https://dev.to/zachjonesnoel**](https://dev.to/zachjonesnoel)
@@ -137,9 +135,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zachjonesnoel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zachjonesnoel" /></a></p><br><br><br><br>
-
+<!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zachjonesnoel&show_icons=true&locale=en&layout=compact" alt="zachjonesnoel" /></p>
 &nbsp;
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zachjonesnoel&show_icons=true&locale=en" alt="zachjonesnoel" /></p>
 &nbsp;
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zachjonesnoel&" alt="zachjonesnoel" /></p>
+-->
